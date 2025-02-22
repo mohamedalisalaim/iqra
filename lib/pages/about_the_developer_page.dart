@@ -38,7 +38,7 @@ class _AboutTheDeveloperPageState extends State<AboutTheDeveloperPage> {
                 textAlign: TextAlign.center,
               ),
               const Text(
-                "Just A Muslim Starving For Junah",
+                "A Muslim striving for Jannah",
                 style: TextStyle(fontFamily: "Almarai"),
                 textAlign: TextAlign.center,
               ),
